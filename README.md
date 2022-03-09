@@ -109,6 +109,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Adil Deveci - [LinkedIn](https://www.linkedin.com/in/adildeveci/) - adildeveci@hotmail.com
 
-Project Link: [https://github.com/adildeveci/K-means](https://github.com/adildeveci/K-means)
+Project Link: [https://github.com/adildeveci/FileCleaner](https://github.com/adildeveci/FileCleaner)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
